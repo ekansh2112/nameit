@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-PROJECT CREDITS: [The Lean Programmer](theleanprogrammer.com/name-it/)
+PROJECT CREDITS: [The Lean Programmer](https://theleanprogrammer.com/name-it/)
 
 ## Available Scripts
 
